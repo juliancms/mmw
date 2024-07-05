@@ -23,8 +23,8 @@ Map My World es una API RESTful para explorar y revisar diferentes ubicaciones y
 
 1. Clona el repositorio:
     ```sh
-    git clone <URL del repositorio>
-    cd map_my_world
+    git clone git@github.com:juliancms/mmw.git
+    cd mmw
     ```
 
 2. Crea un entorno virtual y actívalo:
