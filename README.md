@@ -91,3 +91,11 @@ Map My World es una API RESTful para explorar y revisar diferentes ubicaciones y
 Ejecuta las pruebas utilizando `pytest`:
 ```sh
 pytest
+```
+
+## Documentación de la API
+
+FastAPI proporciona automáticamente documentación interactiva de OpenAPI. Puedes acceder a ella una vez que el servidor esté en funcionamiento:
+
+1. **Swagger UI**: Visita `http://127.0.0.1:8000/docs` para ver la interfaz interactiva de Swagger.
+2. **ReDoc**: Visita `http://127.0.0.1:8000/redoc` para ver la documentación generada con ReDoc.
