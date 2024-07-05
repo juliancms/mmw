@@ -1,0 +1,20 @@
+# Ignore virtual environment directory
+venv/
+
+# Ignore cache directories
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore test database
+test.db
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore editor-specific files (optional, but recommended)
+.vscode/
+.idea/
+
+# Ignore environment and dependency files
+.env
